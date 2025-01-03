@@ -1,0 +1,22 @@
+{
+  "icon": "/assets/resume/cap.svg",
+  "title": "My education",
+  "description": "B.Tech in Computer Science, IIIT Sonepat (Expected Graduation: 2026) Focused on backend development, data structures, and algorithms with hands-on projects in Java, Spring Boot, AWS, and Docker. Developed scalable applications and real-time systems as part of coursework and internships.",
+  "items": [
+    {
+      "institution": "IIIT Sonepat",
+      "degree": "B.Tech in Computer Science & Engineering",
+      "duration": "Aug 2022 - June 2026"
+    },
+    {
+      "institution": "Maharashtra State Board",
+      "degree": "Higher Secondary Certificate (Science)",
+      "duration": "Mar 2019 - Feb 2021"
+    },
+    {
+      "institution": "Maharashtra State Board",
+      "degree": "Secondary Certificate",
+      "duration": "Jul 2018 - Mar 2019"
+    }
+  ]
+}

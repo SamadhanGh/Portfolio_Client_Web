@@ -1,0 +1,11 @@
+{
+  "icon": "/assets/resume/badge.svg",
+  "title": "My Experience",
+  "description": "Showcasing academic and personal software development projects and achievements:",
+  "highlights": [
+    "Built scalable full-stack applications using Java, Spring Boot, React.js, and MongoDB, focusing on backend development and database management.",
+    "Developed a real-time chat application using WebSockets and MongoDB, showcasing WebSocket implementation and full-stack development skills.",
+    "Deployed applications with Docker for scalability in cloud environments.",
+    "Integrated Amazon RDS with backend applications, demonstrating expertise in cloud-based database management and scalable architectures."
+  ]
+}
